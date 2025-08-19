@@ -49,5 +49,4 @@ It was completed by following a YouTube tutorial, and it simulates real-world da
 
 ---
 
-   ```bash
-   git clone https://github.com/your-username/zepto-sql-project.git
+  
